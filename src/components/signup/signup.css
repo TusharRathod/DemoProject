@@ -1,0 +1,46 @@
+.signupContainer {
+  display: flex;
+  justify-content: center;
+}
+.signupPaper {
+  width: 60%;
+  min-height: 400px;
+  height: 100%;
+  margin: 30px 0px 30px 30px;
+}
+.leftContainSignup {
+  padding: 30px 20px 45px 30px;
+}
+.logoSignup {
+  color: gray;
+  font-family: fantasy !important ;
+  font-variant: small-caps;
+}
+.logoSpan {
+  color: red;
+}
+.subtitleSignup {
+  padding: 10px 0px 0px 0px;
+}
+.formGridContain {
+  padding: 35px 0px 0px 0px;
+}
+.fieldSubtitle {
+  color: rgba(0, 0, 0, 0.87);
+  font-size: 13px;
+  padding: 0px 0px 15px 15px;
+}
+.usernameGrid {
+  padding: 10px 0px 0px 0px;
+}
+.bothBottomButton {
+  font-weight: 600 !important;
+  text-transform: inherit !important;
+}
+.signupButton {
+  display: flex;
+  justify-content: flex-end;
+}
+.accountImg {
+  padding: 60px 0px 0px 30px;
+}

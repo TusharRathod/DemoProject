@@ -1,0 +1,14 @@
+.productCardActualPrice {
+  padding: 3px 10px 3px 10px;
+  font-size: 14px;
+  text-decoration: line-through;
+}
+.productCardDiscountPercent {
+  color: green;
+  padding: 7px;
+  font-weight: 600;
+  font-size: 12px;
+}
+.cardContent {
+  cursor: pointer;
+}

@@ -1,0 +1,51 @@
+.wishlistContainer {
+  padding: 100px 50px 0px 50px;
+}
+.wishlistItem {
+  height: 100px;
+  width: 100%;
+}
+
+.profilePaper {
+  height: 80px;
+}
+.wishlistHead {
+  padding: 20px;
+  height: 20px;
+}
+.profileConatiner {
+  display: flex;
+}
+.profileImageDiv {
+  padding: 10px;
+}
+.profileNameContainer {
+  width: 100%;
+  padding: 20px;
+}
+.profileName {
+  font-size: 17px;
+  font-weight: 500;
+}
+.list {
+  cursor: pointer;
+}
+.priceOfferDiv {
+  display: flex;
+  padding: 0px;
+}
+.actualPrice {
+  padding: 3px 10px 3px 10px;
+  font-size: 14px;
+  text-decoration: line-through;
+}
+.discountPercent {
+  color: green;
+  padding: 7px;
+  font-weight: 600;
+  font-size: 12px;
+}
+.deleteFromWishlist {
+  display: flex;
+  justify-content: flex-end;
+}

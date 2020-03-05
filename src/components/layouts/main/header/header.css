@@ -1,0 +1,25 @@
+.activeTab {
+  font-size: 17px;
+  font-weight: 700;
+  width: 90px;
+}
+.inactiveTab {
+  font-size: 15px;
+  width: 90px;
+}
+.cursorPointer {
+  cursor: pointer;
+}
+.cartText {
+  padding: 3px;
+}
+.logoHeader {
+  color: white;
+  font-family: fantasy !important ;
+  font-variant: small-caps;
+  text-align: center;
+  padding-right: 30px;
+}
+.logoSpanHeader {
+  color: red;
+}

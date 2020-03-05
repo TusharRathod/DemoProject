@@ -1,0 +1,62 @@
+.myprofileContainer {
+  padding: 75px 10px 10px 10px;
+}
+.profilePaperDiv {
+  display: flex;
+  justify-content: center;
+}
+.myprofilePaper {
+  width: 55%;
+  min-height: 400px;
+}
+.profileDiv {
+  height: 90px;
+  width: 90px;
+  margin-left: auto;
+  margin-right: auto;
+  background: gray;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+.profileImg {
+  height: 90px;
+  width: 90px;
+  border-radius: 5px;
+  object-fit: cover;
+}
+.userCoverImage {
+  width: 100%;
+  height: 450px;
+  display: block;
+  /* background-size: cover; */
+  /* border: 1px solid aqua; */
+  /* background-position: center; */
+  border-radius: 5pt;
+}
+
+.fileInput {
+  display: none;
+}
+.uploadButton {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.userProfile {
+  border-radius: 50%;
+  height: 100%;
+  width: 100%;
+  border: 5px solid white;
+}
+.userProfileDiv {
+  margin-top: -80px;
+  margin-left: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+.userDetailDiv {
+  padding-left: 30px;
+}
+.coverImageButton {
+  margin-top: 20px;
+  margin-right: 10px;
+}

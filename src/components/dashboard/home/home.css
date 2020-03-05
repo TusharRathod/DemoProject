@@ -1,0 +1,33 @@
+.homeContainer {
+  padding: 75px 10px 10px 10px;
+}
+.filtersText {
+  padding: 20px;
+  font-size: 17px;
+  font-weight: 500;
+}
+.priceRangeSlide {
+  padding: 15px;
+}
+.slider .MuiSlider-rail {
+  height: 5px;
+}
+.slider .MuiSlider-track {
+  height: 5px;
+}
+.slider .MuiSlider-thumb {
+  width: 15px;
+  height: 15px;
+}
+.assuredLogoDiv {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+.logoW {
+  color: white;
+  background: red;
+  border-radius: 50%;
+  font-weight: 700;
+  padding: 6px;
+}
