@@ -5,12 +5,7 @@ const initialState = {};
 export default (state = initialState, action = {}) => {
   switch (action.type) {
     case Type.FATCH_PRODUCTS:
-      return {
-        products: action.products,
-        wishlist: action.wishlist,
-        min: action.min,
-        max: action.max
-      };
+      return action;
 
     case Type.PRICE_FILTER:
       return {
